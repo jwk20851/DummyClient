@@ -1,0 +1,5 @@
+[access=public]
+global S2C 4000 // server-to-client RMI, Fist message ID = 4000
+{
+    recvString([in] Proud::String txt, [in]int num);
+}

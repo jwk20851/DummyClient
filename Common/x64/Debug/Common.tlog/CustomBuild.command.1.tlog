@@ -1,0 +1,4 @@
+^C:\USERS\정원규\DESKTOP\정원규\SOURCE\TRAINING\TRAINING4\COMMON\C2S.PIDL
+.\PIDL.exe "C:\Users\정원규\Desktop\정원규\source\Training\Training4\Common\C2S.PIDL" –cpp
+^C:\USERS\정원규\DESKTOP\정원규\SOURCE\TRAINING\TRAINING4\COMMON\S2C.PIDL
+.\PIDL.exe "C:\Users\정원규\Desktop\정원규\source\Training\Training4\Common\S2C.PIDL" –cpp

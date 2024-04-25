@@ -1,0 +1,10 @@
+[access=public]
+global C2S 3000 // client-to-server RMI, First message ID = 3000
+{
+    //Ãß°¡
+    Chat([in] Proud::String str, [in]int num);
+
+    Send([in] Proud::String str, [in]int num, [in] Proud::String sendTime);
+
+    Quit([in] Proud::String dlg);
+}

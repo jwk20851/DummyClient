@@ -1,0 +1,3 @@
+//SendType
+sendOnlyKOR
+sendOnlyNUM
